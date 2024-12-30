@@ -1,1 +1,1 @@
-# HRS
+# Human resource management system
